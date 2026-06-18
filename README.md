@@ -7,17 +7,18 @@
 In this project, we analyze a retail Superstore sales dataset to understand revenue and profit drivers across regions, product categories, and customer segments.  
 The objective is to perform end‑to‑end exploratory data analysis (EDA)—from data cleaning to insight generation—using Python, Pandas, and visualization libraries.
 
-**Problem Statement:**  
+**2. Problem Statement:**  
 To identify key patterns in sales, profit, discounts, and customer segments, and derive actionable recommendations to improve profitability and sales performance.
 
-**Objectives:**
+**3. Objectives:**
 - Understand overall sales and profit distribution.
 - Compare performance across regions, categories, and segments.
 - Study the impact of discounts on profit.
 - Identify high‑value segments and seasonal trends.
 
   
-**Overall Conclusion**
+**4. Overall Conclusion**
+
 The Superstore dataset reveals a business with strong sales performance driven primarily by the Technology category and the Consumer segment. However, profitability is negatively impacted by high discounting, especially in the Furniture category. Regional performance varies significantly, with the West region being the most profitable and the Central region requiring strategic improvement.
 
 Seasonal trends highlight the importance of Q4 sales, suggesting opportunities for targeted marketing campaigns during peak months. Shipping mode analysis indicates that optimizing delivery costs—especially for Same Day shipping—can improve overall profit margins.
